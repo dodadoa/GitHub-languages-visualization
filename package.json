@@ -25,7 +25,8 @@
     "redux-form": "^6.7.0",
     "redux-logger": "^3.0.1",
     "redux-promise": "^0.5.3",
-    "redux-thunk": "^2.2.0"
+    "redux-thunk": "^2.2.0",
+    "webpack-dev-server": "^2.4.5"
   },
   "devDependencies": {
     "webpack": "^2.5.1",
