@@ -14,7 +14,7 @@ middlewares.push(createLogger());
 
 let finalMiddleware = applyMiddleware(...middlewares);
 
-finalMiddleware = compose(finalMiddleware, window.devToolsExtension());
+//finalMiddleware = compose(finalMiddleware, window.devToolsExtension());
 
 const store = createStore(rootReducer, finalMiddleware);
 
