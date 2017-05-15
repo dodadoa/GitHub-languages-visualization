@@ -94,7 +94,7 @@ class BarChartVisualizer extends Component{
         )
       }else{
         return(
-          <Rectangle {...props} height={32} fill='#8884d8' />
+          <Rectangle {...props} y={y + 4} height={32} fill='#8884d8' />
         )
       }
     }
