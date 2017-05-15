@@ -5,9 +5,9 @@
 npm install
 npm start
 ```
-
 ### then go localhost:3000
 
-### TODO
+
+## TODO
 1. make it responsive
 2. write test
