@@ -5,7 +5,7 @@
 npm install
 npm start
 ```
-### then go localhost:3000
+### then go to localhost:3000
 
 ---
 
