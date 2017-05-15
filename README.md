@@ -7,6 +7,7 @@ npm start
 ```
 ### then go localhost:3000
 
+---
 
 ## TODO
 1. make it responsive
